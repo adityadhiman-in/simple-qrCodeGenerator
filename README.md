@@ -6,11 +6,11 @@ This documentation outlines the functionality and usage instructions for the QR 
 Usage:
 Installation: Before utilizing the script, ensure that the required packages are installed by executing the following command:
 
-npm install inquirer qr-image fs
+"npm install inquirer qr-image fs"
 
 Executing the Script: Run the script using the command:
 
-node index.js
+"node index.js"
 
 Input Prompt: Upon running the script, it will prompt the user to enter a URL. Simply input the desired URL and press Enter.
 QR Code Generation: After providing the URL, the script will generate a corresponding QR code image.
